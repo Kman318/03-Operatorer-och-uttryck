@@ -5,5 +5,9 @@
   <Project Path="04 Godisdelaren/04 Godisdelaren.csproj" />
   <Project Path="06 Medlemsrabatt/06 Medlemsrabatt.csproj" />
   <Project Path="07 Säker division/07 Säker division.csproj" />
+  <Project Path="08 Stränglängdskontroll/08 Stränglängdskontroll.csproj" />
+  <Project Path="09 Inkrementeringstjusa/09 Inkrementeringstjusa.csproj" />
+  <Project Path="10 Datatyp safe casting/10 Datatyp safe casting.csproj" />
+  <Project Path="11 Skatteuträknaren med Overflow/11 Skatteuträknaren med Overflow.csproj" />
   <Project Path="ConsoleApp1/05 Implicit vs Explicit.csproj" />
 </Solution>
