@@ -1,3 +1,9 @@
 <Solution>
   <Project Path="01 Biljettpriskalkylatorn/01 Biljettpriskalkylatorn.csproj" />
+  <Project Path="02 Ålderskontrollen/02 Ålderskontrollen.csproj" />
+  <Project Path="03 Inloggningsvalidering/03 Inloggningsvalidering.csproj" />
+  <Project Path="04 Godisdelaren/04 Godisdelaren.csproj" />
+  <Project Path="06 Medlemsrabatt/06 Medlemsrabatt.csproj" />
+  <Project Path="07 Säker division/07 Säker division.csproj" />
+  <Project Path="ConsoleApp1/05 Implicit vs Explicit.csproj" />
 </Solution>
